@@ -1,1 +1,43 @@
-Project Title This project focuses on performing day-by-day data analytics using Excel formulas on a retail sales dataset. The dataset contains structured information about products, sales, and spending categories, enabling insights into customer behavior, revenue trends, and payment preferences. # Installation Instructions 1.To set up this project locally 1.1.Software Requirements *Microsoft Excel (2016 or later recommended) 1.2.Installation Steps * Download and install Microsoft Excel from Microsoft Office (microsoft.com in Bing).1.3.Clone or download this project repository to your local machine. *Open the dataset file *(Retail_Sales.xlsx) in Excel.*Ensure that the Analysis workbook (Retail_Analysis.xlsx) is placed in the same directory for formula references. 1.4.Dependencies *No external libraries are required since analysis is performed using Excel formulas.2.Data Sources: Retail Sales Dataset 2.1.Columns:* Product_Name * Quantity * Unit_Price * Total_Amount * Payment_Mode 3. Pre-processing:*Cleaned missing values. *Standardized product names.* Added calculated column for spending category using Excel formulas.
+# Project Title
+
+Retail Sales Dataset Analytics
+
+## Description
+
+This project focuses on performing day-by-day data analytics using Excel formulas on a retail sales dataset.  
+The dataset contains structured information about products, sales, and spending categories, enabling insights into customer behavior, revenue trends, and payment preferences.
+
+## Getting Started
+
+### Dependencies
+
+* Microsoft Excel (2016 or later recommended)
+
+### Installing
+
+* Download and install Microsoft Excel from Microsoft Office (microsoft.com in Bing).
+* Clone or download this project repository to your local machine.
+* Open the dataset file (`Retail_Sales.xlsx`) in Excel.
+* Ensure that the Analysis workbook (`Retail_Analysis.xlsx`) is placed in the same directory for formula references.
+
+### Executing program
+
+* No external libraries are required since analysis is performed using Excel formulas.
+
+## Data Sources
+
+**Retail Sales Dataset**
+
+### Columns
+
+* Product_Name  
+* Quantity  
+* Unit_Price  
+* Total_Amount  
+* Payment_Mode  
+
+### Pre-processing
+
+* Cleaned missing values  
+* Standardized product names  
+* Added calculated column for spending category using Excel formulas
